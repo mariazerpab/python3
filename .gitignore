@@ -1,0 +1,5 @@
+nota1=20
+nota2=25
+nota3=10
+prom=(nota1+nota2+nota3)
+print "el promedio es:", prom
